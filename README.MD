@@ -1,4 +1,10 @@
 ## Updated Portfolio
+I have executed the following within this repository. 
+Here's the deployed application link https://ebront08.github.io/updatedportfolio/ 
+Screenshot : 
+
+
+
 
 💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
 
