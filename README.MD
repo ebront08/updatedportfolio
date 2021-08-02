@@ -1,7 +1,8 @@
 ## Updated Portfolio
 I have executed the following within this repository. 
 Here's the deployed application link https://ebront08.github.io/updatedportfolio/ 
-Screenshot : 
+Screenshot : <img width="1440" alt="portfolioscreenshot" src="https://user-images.githubusercontent.com/68530678/127865829-36ba9cdd-80bd-4588-bd35-9a1d5285bdb7.png">
+
 
 
 
